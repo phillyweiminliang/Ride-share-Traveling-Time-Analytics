@@ -1,0 +1,542 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"186","20001, Northwest Washington, Washington","1","5400 Arnold Avenue Southwest, Southwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",731,520,1025
+"186","20001, Northwest Washington, Washington","2","1400 Juniper Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1660,1373,2005
+"186","20001, Northwest Washington, Washington","3","4800 Canal Road Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1201,756,1907
+"186","20001, Northwest Washington, Washington","4","2700 Unicorn Lane Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1648,1334,2035
+"186","20001, Northwest Washington, Washington","5","4500 Q Place Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",992,689,1427
+"186","20001, Northwest Washington, Washington","6","Ridge Road Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1403,1119,1758
+"186","20001, Northwest Washington, Washington","7","4500 Ohio Drive Southwest, Southwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",278,140,550
+"186","20001, Northwest Washington, Washington","8","0 H Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",207,85,503
+"186","20001, Northwest Washington, Washington","9","1800 Upshur Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1202,942,1533
+"186","20001, Northwest Washington, Washington","10","1500 30th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",733,494,1086
+"186","20001, Northwest Washington, Washington","11","1600 Tuckerman Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1477,1199,1818
+"186","20001, Northwest Washington, Washington","12","8000 Poplar Hill Drive, Clinton","3/17/2018 - 3/17/2018, Every day, Daily Average",1723,1472,2016
+"186","20001, Northwest Washington, Washington","13","2100 Monticello Court, Fort Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1474,1178,1842
+"186","20001, Northwest Washington, Washington","14","0 Hesketh Street, Chevy Chase","3/17/2018 - 3/17/2018, Every day, Daily Average",1783,1448,2195
+"186","20001, Northwest Washington, Washington","15","8100 Roanoke Avenue, Takoma Park","3/17/2018 - 3/17/2018, Every day, Daily Average",2001,1627,2460
+"186","20001, Northwest Washington, Washington","16","8800 Walden Road, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",2047,1684,2487
+"186","20001, Northwest Washington, Washington","17","8300 Colesville Road, Downtown Silver Spring, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",1810,1481,2211
+"186","20001, Northwest Washington, Washington","18","8900 Moreland Lane, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1433,1107,1854
+"186","20001, Northwest Washington, Washington","19","Thomas Avenue, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",560,409,766
+"186","20001, Northwest Washington, Washington","20","McClellan Drive, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",491,324,743
+"186","20001, Northwest Washington, Washington","21","3600 North Vernon Street, Old Glebe, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",964,770,1205
+"186","20001, Northwest Washington, Washington","22","6500 Park View Court, West Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1700,1396,2069
+"186","20001, Northwest Washington, Washington","23","6500 Bellamine Court, McLean","3/17/2018 - 3/17/2018, Every day, Daily Average",1125,941,1343
+"186","20001, Northwest Washington, Washington","24","8600 Brook Road, McLean","3/17/2018 - 3/17/2018, Every day, Daily Average",1517,1224,1878
+"186","20001, Northwest Washington, Washington","25","8200 Mockingbird Drive, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1385,1061,1807
+"186","20001, Northwest Washington, Washington","26","9400 Pamlico Lane, Great Falls","3/17/2018 - 3/17/2018, Every day, Daily Average",1340,1120,1602
+"186","20001, Northwest Washington, Washington","27","6200 Everglades Drive, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1114,858,1445
+"186","20001, Northwest Washington, Washington","28","2100 North Scott Street, North Highland, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",741,539,1018
+"186","20001, Northwest Washington, Washington","29","700 Carpenter Road, Potomac Yard, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",779,591,1025
+"186","20001, Northwest Washington, Washington","30","0 Auburn Court, Potomac West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",945,696,1282
+"186","20001, Northwest Washington, Washington","31","1000 C Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",666,521,850
+"186","20001, Northwest Washington, Washington","32","2600 13th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",781,589,1034
+"186","20001, Northwest Washington, Washington","33","4400 E Street Southeast, Benning Ridge, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1341,1019,1764
+"186","20001, Northwest Washington, Washington","34","1700 Independence Avenue Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",986,765,1270
+"186","20001, Northwest Washington, Washington","35","2100 1st Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",761,542,1067
+"186","20001, Northwest Washington, Washington","36","500 17th Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",948,734,1223
+"186","20001, Northwest Washington, Washington","37","3500 Toledo Terrace, Chillum","3/17/2018 - 3/17/2018, Every day, Daily Average",1869,1538,2270
+"186","20001, Northwest Washington, Washington","38","5300 Westport Road, Chevy Chase","3/17/2018 - 3/17/2018, Every day, Daily Average",1649,1359,2000
+"186","20001, Northwest Washington, Washington","39","Woodrow Wilson Memorial Bridge, Old Town, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1077,848,1366
+"186","20001, Northwest Washington, Washington","40","6000 Rixey Drive, Fair Haven, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1321,1056,1651
+"186","20001, Northwest Washington, Washington","41","2000 Rosedale Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1042,828,1310
+"186","20001, Northwest Washington, Washington","42","4200 10th Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1107,846,1448
+"186","20001, Northwest Washington, Washington","43","900 Randolph Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1147,885,1486
+"186","20001, Northwest Washington, Washington","44","1200 New Jersey Avenue Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",491,337,713
+"186","20001, Northwest Washington, Washington","45","0 L Place Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",229,91,573
+"186","20001, Northwest Washington, Washington","46","1900 Anacostia Drive, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",741,531,1032
+"186","20001, Northwest Washington, Washington","47","0 S Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",640,457,895
+"186","20001, Northwest Washington, Washington","48","3500 Commodore Joshua Barney Drive Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1042,740,1466
+"186","20001, Northwest Washington, Washington","49","2700 10th Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1032,764,1392
+"186","20001, Northwest Washington, Washington","50","5700 Chevy Chase Parkway Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1719,1386,2131
+"186","20001, Northwest Washington, Washington","51","1300 Underwood Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1577,1257,1977
+"186","20001, Northwest Washington, Washington","52","200 Quackenbos Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1287,1026,1613
+"186","20001, Northwest Washington, Washington","53","600 Atlantic Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1047,754,1452
+"186","20001, Northwest Washington, Washington","54","3300 Clay Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",885,641,1220
+"186","20001, Northwest Washington, Washington","55","500 Q Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",445,273,723
+"186","20001, Northwest Washington, Washington","56","Center Leg Freeway, Southwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",412,271,625
+"186","20001, Northwest Washington, Washington","57","600 Edgewood Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",846,632,1131
+"186","20001, Northwest Washington, Washington","58","3100 13th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",957,721,1270
+"186","20001, Northwest Washington, Washington","59","2800 45th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1164,852,1588
+"186","20001, Northwest Washington, Washington","60","3200 Dubois Place Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",862,610,1216
+"186","20001, Northwest Washington, Washington","61","1400 15th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",420,266,661
+"186","20001, Northwest Washington, Washington","62","1800 W Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1034,790,1352
+"186","20001, Northwest Washington, Washington","63","4400 40th Street, Brentwood","3/17/2018 - 3/17/2018, Every day, Daily Average",1440,1132,1830
+"186","20001, Northwest Washington, Washington","64","1800 Ontario Place Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1076,786,1472
+"186","20001, Northwest Washington, Washington","65","1900 15th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",623,441,879
+"186","20001, Northwest Washington, Washington","66","1400 K Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",212,94,473
+"186","20001, Northwest Washington, Washington","67","900 Q Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",435,280,673
+"186","20001, Northwest Washington, Washington","68","8800 Springfield Road, Laurel","3/17/2018 - 3/17/2018, Every day, Daily Average",1672,1325,2108
+"186","20001, Northwest Washington, Washington","69","12500 Farm Road, Greater Upper Marlboro, Upper Marlboro","3/17/2018 - 3/17/2018, Every day, Daily Average",1683,1380,2051
+"186","20001, Northwest Washington, Washington","70","3600 Anton Terrace, District Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1511,1180,1934
+"186","20001, Northwest Washington, Washington","71","5600 Somerset House II, Wisconsin Avenue, Chevy Chase","3/17/2018 - 3/17/2018, Every day, Daily Average",1667,1385,2006
+"186","20001, Northwest Washington, Washington","72","4900 Hampden Lane, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",1941,1583,2379
+"186","20001, Northwest Washington, Washington","73","3300 Chillum Road, Mount Rainier","3/17/2018 - 3/17/2018, Every day, Daily Average",1429,1156,1766
+"186","20001, Northwest Washington, Washington","74","11100 Rodeo Court, Upper Marlboro","3/17/2018 - 3/17/2018, Every day, Daily Average",1566,1283,1911
+"186","20001, Northwest Washington, Washington","75","4900 Blackfoot Road, Hollywood, College Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1985,1632,2413
+"186","20001, Northwest Washington, Washington","76","7300 16th Place, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1735,1496,2012
+"186","20001, Northwest Washington, Washington","77","3200 Donnell Drive, Forestville","3/17/2018 - 3/17/2018, Every day, Daily Average",1471,1060,2041
+"186","20001, Northwest Washington, Washington","78","5000 Roseld Court, Oxon Hill","3/17/2018 - 3/17/2018, Every day, Daily Average",1198,902,1589
+"186","20001, Northwest Washington, Washington","79","2200 Washington Avenue, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",1994,1537,2586
+"186","20001, Northwest Washington, Washington","80","3100 West Avenue, District Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1454,1108,1907
+"186","20001, Northwest Washington, Washington","81","1600 Nova Avenue, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1383,1008,1896
+"186","20001, Northwest Washington, Washington","82","2000 South Eads Street, Crystal City, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",635,443,908
+"186","20001, Northwest Washington, Washington","83","500 Ethan Allen Avenue, Takoma Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1638,1281,2093
+"186","20001, Northwest Washington, Washington","84","7700 Oxman Road, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1703,1341,2161
+"186","20001, Northwest Washington, Washington","85","100 Lakeside Drive, Greenbelt","3/17/2018 - 3/17/2018, Every day, Daily Average",1472,1189,1821
+"186","20001, Northwest Washington, Washington","86","9100 Fairview Road, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",1955,1601,2386
+"186","20001, Northwest Washington, Washington","87","7600 Greenbrook Drive, Greenbelt","3/17/2018 - 3/17/2018, Every day, Daily Average",1439,1145,1807
+"186","20001, Northwest Washington, Washington","88","5000 Newport Avenue, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",1499,1234,1820
+"186","20001, Northwest Washington, Washington","89","10000 Oaklyn Drive, Potomac","3/17/2018 - 3/17/2018, Every day, Daily Average",1441,1163,1784
+"186","20001, Northwest Washington, Washington","90","11400 Macarthur Boulevard Northwest, Potomac","3/17/2018 - 3/17/2018, Every day, Daily Average",1386,1113,1725
+"186","20001, Northwest Washington, Washington","91","6400 Walhonding Road, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",1367,1126,1658
+"186","20001, Northwest Washington, Washington","92","3100 North Nelson Street, Bellevue Forest, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",822,629,1073
+"186","20001, Northwest Washington, Washington","93","6400 Vale Street, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",987,774,1258
+"186","20001, Northwest Washington, Washington","94","6300 8th Circle, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",896,704,1139
+"186","20001, Northwest Washington, Washington","95","1800 South Stafford Street, Douglas Park, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",934,696,1252
+"186","20001, Northwest Washington, Washington","96","7300 Beverly Street, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1502,1154,1953
+"186","20001, Northwest Washington, Washington","97","5500 Jowett Court, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1581,1305,1915
+"186","20001, Northwest Washington, Washington","98","1600 13th Road South, Arlington Views, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",544,384,770
+"186","20001, Northwest Washington, Washington","99","3800 Pinewood Terrace, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1290,1014,1640
+"186","20001, Northwest Washington, Washington","100","1200 Oronoco Street, Old Town West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",920,710,1190
+"186","20001, Northwest Washington, Washington","101","100 South Fayette Street, Old Town, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1050,825,1335
+"186","20001, Northwest Washington, Washington","102","3700 South George Mason Drive, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1060,732,1534
+"186","20001, Northwest Washington, Washington","103","600 South Ball Street, Crystal City, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",503,337,749
+"186","20001, Northwest Washington, Washington","104","2500 Jackson Parkway, Vienna","3/17/2018 - 3/17/2018, Every day, Daily Average",1411,1133,1755
+"186","20001, Northwest Washington, Washington","105","Dwight D. Eisenhower Southwest Freeway, Southwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",333,203,546
+"186","20001, Northwest Washington, Washington","106","5800 Cameron Run Terrace, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1216,968,1527
+"186","20001, Northwest Washington, Washington","107","4000 Ellicott Street, Seminary Hill, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",752,556,1015
+"186","20001, Northwest Washington, Washington","108","100 57th Place Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1425,1144,1774
+"186","20001, Northwest Washington, Washington","109","7200 Wesley Road, Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1194,934,1525
+"186","20001, Northwest Washington, Washington","110","800 West Braddock Road, Rosemont, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",903,561,1453
+"186","20001, Northwest Washington, Washington","111","Perimeter East Road Southwest, Southwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",897,695,1157
+"186","20001, Northwest Washington, Washington","112","Willow Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",706,518,961
+"186","20001, Northwest Washington, Washington","113","400 50th Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1346,1085,1669
+"186","20001, Northwest Washington, Washington","114","5300 Call Place Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1422,1132,1786
+"186","20001, Northwest Washington, Washington","115","4700 B Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1293,1043,1601
+"186","20001, Northwest Washington, Washington","116","100 Jefferson Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1205,923,1571
+"186","20001, Northwest Washington, Washington","117","4800 Illinois Avenue Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1317,1021,1697
+"186","20001, Northwest Washington, Washington","118","100 Emerson Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1118,856,1459
+"186","20001, Northwest Washington, Washington","119","200 10th Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",786,592,1042
+"186","20001, Northwest Washington, Washington","120","300 Varnum Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1171,904,1515
+"186","20001, Northwest Washington, Washington","121","0 T Street Southwest, Southwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",571,397,820
+"186","20001, Northwest Washington, Washington","122","100 E Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",457,304,685
+"186","20001, Northwest Washington, Washington","123","600 Independence Avenue Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",637,465,871
+"186","20001, Northwest Washington, Washington","124","1400 4th Street Southwest, Southwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",549,370,813
+"186","20001, Northwest Washington, Washington","125","1600 D Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",814,621,1065
+"186","20001, Northwest Washington, Washington","126","2300 Hartford Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1151,871,1520
+"186","20001, Northwest Washington, Washington","127","1300 E Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",854,640,1138
+"186","20001, Northwest Washington, Washington","128","3500 19th Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1167,901,1510
+"186","20001, Northwest Washington, Washington","129","800 51st Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1118,819,1524
+"186","20001, Northwest Washington, Washington","130","3800 22nd Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1306,1025,1663
+"186","20001, Northwest Washington, Washington","131","200 Taylor Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",980,751,1277
+"186","20001, Northwest Washington, Washington","132","1600 Buchanan Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1275,997,1629
+"186","20001, Northwest Washington, Washington","133","200 Oneida Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1298,992,1696
+"186","20001, Northwest Washington, Washington","134","1400 Allison Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1209,944,1547
+"186","20001, Northwest Washington, Washington","135","Scale Gate Road Northeast, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",905,667,1227
+"186","20001, Northwest Washington, Washington","136","700 Taylor Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1120,836,1499
+"186","20001, Northwest Washington, Washington","137","1700 Willard Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",715,507,1007
+"186","20001, Northwest Washington, Washington","138","500 8th Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",551,388,781
+"186","20001, Northwest Washington, Washington","139","1400 Southeast Boulevard, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",550,381,793
+"186","20001, Northwest Washington, Washington","140","400 14th Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",748,543,1029
+"186","20001, Northwest Washington, Washington","141","600 Nicholson Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1439,1095,1890
+"186","20001, Northwest Washington, Washington","142","100 Ingraham Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1197,904,1584
+"186","20001, Northwest Washington, Washington","143","800 Delafield Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1428,1101,1851
+"186","20001, Northwest Washington, Washington","144","1700 19th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",734,516,1042
+"186","20001, Northwest Washington, Washington","145","1100 Varney Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1262,1007,1581
+"186","20001, Northwest Washington, Washington","146","3800 8th Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",993,737,1337
+"186","20001, Northwest Washington, Washington","147","3400 17th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1095,841,1424
+"186","20001, Northwest Washington, Washington","148","1400 Ogden Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1106,851,1436
+"186","20001, Northwest Washington, Washington","149","1400 Irving Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",930,693,1247
+"186","20001, Northwest Washington, Washington","150","1200 13th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",317,186,539
+"186","20001, Northwest Washington, Washington","151","100 3rd Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",513,379,693
+"186","20001, Northwest Washington, Washington","152","600 Acker Place Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",621,472,815
+"186","20001, Northwest Washington, Washington","153","900 10th Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",716,534,959
+"186","20001, Northwest Washington, Washington","154","200 M Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",491,323,746
+"186","20001, Northwest Washington, Washington","155","100 T Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",698,492,988
+"186","20001, Northwest Washington, Washington","156","100 13th Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",816,624,1065
+"186","20001, Northwest Washington, Washington","157","300 U Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",644,416,995
+"186","20001, Northwest Washington, Washington","158","300 Burbank Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1170,892,1533
+"186","20001, Northwest Washington, Washington","159","1100 45th Place Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1411,1051,1893
+"186","20001, Northwest Washington, Washington","160","500 42nd Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1109,827,1486
+"186","20001, Northwest Washington, Washington","161","4900 Eads Place Northeast, Lincoln Heights, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1130,903,1412
+"186","20001, Northwest Washington, Washington","162","800 Washburn Arts Center, Florida Avenue Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",723,485,1076
+"186","20001, Northwest Washington, Washington","163","1300 Mount Olivet Road Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",912,654,1271
+"186","20001, Northwest Washington, Washington","164","1700 Lang Place Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",939,740,1190
+"186","20001, Northwest Washington, Washington","165","800 21st Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",955,744,1225
+"186","20001, Northwest Washington, Washington","166","1300 Orren Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",798,576,1104
+"186","20001, Northwest Washington, Washington","167","4100 1st Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",935,705,1238
+"186","20001, Northwest Washington, Washington","168","1800 E Street Northeast, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",488,309,769
+"186","20001, Northwest Washington, Washington","169","Meadow Road Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",978,690,1385
+"186","20001, Northwest Washington, Washington","170","900 Brentwood Road Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",793,511,1229
+"186","20001, Northwest Washington, Washington","171","4200 4th Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1098,803,1499
+"186","20001, Northwest Washington, Washington","172","700 55th Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1294,1002,1670
+"186","20001, Northwest Washington, Washington","173","4500 45th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1382,1088,1754
+"186","20001, Northwest Washington, Washington","174","Massachusetts-39th Trail, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1224,956,1566
+"186","20001, Northwest Washington, Washington","175","2100 Lincoln Road Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",774,558,1072
+"186","20001, Northwest Washington, Washington","176","4800 Meade Street Northeast, Deanwood, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1289,957,1734
+"186","20001, Northwest Washington, Washington","177","6000 Clay Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1401,1084,1809
+"186","20001, Northwest Washington, Washington","178","3100 Chancellor's Way Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",969,721,1300
+"186","20001, Northwest Washington, Washington","179","1500 Kearny Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1190,894,1582
+"186","20001, Northwest Washington, Washington","180","5100 39th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1558,1236,1962
+"186","20001, Northwest Washington, Washington","181","400 Butternut Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1432,1154,1775
+"186","20001, Northwest Washington, Washington","182","3600 Alton Place Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1369,1079,1736
+"186","20001, Northwest Washington, Washington","183","3300 6th Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1036,821,1306
+"186","20001, Northwest Washington, Washington","184","700 Fern Place Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1575,1278,1939
+"186","20001, Northwest Washington, Washington","185","700 Quackenbos Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1569,1237,1989
+"186","20001, Northwest Washington, Washington","186","20001, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",290,119,701
+"186","20001, Northwest Washington, Washington","187","1600 13th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",489,343,695
+"186","20001, Northwest Washington, Washington","188","4200 Martin Luther King Junior Avenue Southwest, Southwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",794,603,1043
+"186","20001, Northwest Washington, Washington","189","100 Wilmington Place Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",921,669,1267
+"186","20001, Northwest Washington, Washington","190","900 M Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",228,85,608
+"186","20001, Northwest Washington, Washington","191","1300 Gallatin Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1297,1026,1639
+"186","20001, Northwest Washington, Washington","192","5400 8th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1464,1138,1882
+"186","20001, Northwest Washington, Washington","193","3500 13th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1088,828,1428
+"186","20001, Northwest Washington, Washington","194","700 Lamont Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",916,693,1209
+"186","20001, Northwest Washington, Washington","195","500 Lamont Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",937,692,1267
+"186","20001, Northwest Washington, Washington","196","2400 5th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",625,434,898
+"186","20001, Northwest Washington, Washington","197","2400 Sherman Avenue Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",723,528,988
+"186","20001, Northwest Washington, Washington","198","0 Peluca Alley, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",753,546,1037
+"186","20001, Northwest Washington, Washington","199","1700 Kalorama Road Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",861,619,1196
+"186","20001, Northwest Washington, Washington","200","2400 20th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",921,675,1255
+"186","20001, Northwest Washington, Washington","201","1800 California Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",875,642,1190
+"186","20001, Northwest Washington, Washington","202","1300 Talbert Terrace Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",878,634,1214
+"186","20001, Northwest Washington, Washington","203","1100 Connecticut Avenue Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",503,324,780
+"186","20001, Northwest Washington, Washington","204","Rafik B. Hariri Building, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1026,762,1381
+"186","20001, Northwest Washington, Washington","205","4000 Highwood Court Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1238,930,1646
+"186","20001, Northwest Washington, Washington","206","0 Observatory Circle Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1064,796,1422
+"186","20001, Northwest Washington, Washington","207","4300 Ivymount Court, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1308,1038,1646
+"186","20001, Northwest Washington, Washington","208","2800 Cathedral Avenue Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1066,823,1380
+"186","20001, Northwest Washington, Washington","209","1200 U Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",618,448,852
+"186","20001, Northwest Washington, Washington","210","1400 1st Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",521,328,826
+"186","20001, Northwest Washington, Washington","211","1200 5th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",263,115,599
+"186","20001, Northwest Washington, Washington","212","800 Howard Road Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",638,455,892
+"186","20001, Northwest Washington, Washington","213","2000 Savannah Terrace Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",956,714,1278
+"186","20001, Northwest Washington, Washington","214","3200 Highland Place Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1195,927,1540
+"186","20001, Northwest Washington, Washington","215","3800 Klingle Place Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1149,886,1488
+"186","20001, Northwest Washington, Washington","216","2600 39th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1287,954,1734
+"186","20001, Northwest Washington, Washington","217","1500 Tobias Drive Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",874,647,1180
+"186","20001, Northwest Washington, Washington","218","1700 Kenyon Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1009,768,1325
+"186","20001, Northwest Washington, Washington","219","Groff Court Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",546,394,755
+"186","20001, Northwest Washington, Washington","220","1400 Mississippi Avenue Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1224,918,1631
+"186","20001, Northwest Washington, Washington","221","1400 18th Place Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",606,421,871
+"186","20001, Northwest Washington, Washington","222","900 26th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",725,514,1021
+"186","20001, Northwest Washington, Washington","223","400 3rd Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",232,101,532
+"186","20001, Northwest Washington, Washington","224","2400 Wagner Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1073,823,1397
+"186","20001, Northwest Washington, Washington","225","2200 Chester Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",825,618,1099
+"186","20001, Northwest Washington, Washington","226","2800 Upton Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1219,943,1575
+"186","20001, Northwest Washington, Washington","227","2500 Pomeroy Road Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",980,715,1342
+"186","20001, Northwest Washington, Washington","228","1200 24th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",723,511,1021
+"186","20001, Northwest Washington, Washington","229","3900 Clay Place Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1222,988,1510
+"186","20001, Northwest Washington, Washington","230","0 Olmsted Walk, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",975,731,1298
+"186","20001, Northwest Washington, Washington","231","4300 Russell Avenue, Mount Rainier","3/17/2018 - 3/17/2018, Every day, Daily Average",1369,1105,1696
+"186","20001, Northwest Washington, Washington","232","5100 Rockwood Parkway Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1337,1050,1701
+"186","20001, Northwest Washington, Washington","233","600 10th Street Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",758,579,991
+"186","20001, Northwest Washington, Washington","234","0 Discovery Communications, Discovery Place, Downtown Silver Spring, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",1854,1502,2287
+"186","20001, Northwest Washington, Washington","235","600 Anacostia Avenue Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",918,673,1250
+"186","20001, Northwest Washington, Washington","236","0 Cleveland Avenue, Takoma Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1609,1266,2044
+"186","20001, Northwest Washington, Washington","237","1400 Montague Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1360,1104,1674
+"186","20001, Northwest Washington, Washington","238","3100 Erie Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1123,824,1529
+"186","20001, Northwest Washington, Washington","239","5400 30th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1575,1251,1982
+"186","20001, Northwest Washington, Washington","240","1500 17th Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",512,329,795
+"186","20001, Northwest Washington, Washington","241","3900 Massachusetts Avenue Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1195,841,1696
+"186","20001, Northwest Washington, Washington","242","5400 Duvall Drive, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",1495,1235,1808
+"186","20001, Northwest Washington, Washington","243","1400 Anacostia Avenue Northeast, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1002,721,1391
+"186","20001, Northwest Washington, Washington","244","1300 South Hayes Street, Aurora Highlands, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",636,450,898
+"186","20001, Northwest Washington, Washington","245","3300 M Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",976,695,1370
+"186","20001, Northwest Washington, Washington","246","Anacostia Riverwalk Trail, Northeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1021,778,1338
+"186","20001, Northwest Washington, Washington","247","5700 Marlboro Pike, District Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1510,1089,2092
+"186","20001, Northwest Washington, Washington","248","2300 California Street Northwest, Northwest Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",868,640,1175
+"186","20001, Northwest Washington, Washington","249","3400 N Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",934,668,1304
+"186","20001, Northwest Washington, Washington","250","3000 Oxon Park Street, Temple Hills","3/17/2018 - 3/17/2018, Every day, Daily Average",1078,808,1436
+"186","20001, Northwest Washington, Washington","251","2900 Park Drive Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",843,605,1173
+"186","20001, Northwest Washington, Washington","252","1900 23rd Street Southeast, Southeast Washington, Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",912,691,1203
+"186","20001, Northwest Washington, Washington","254","7700 Greentree Road, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",1510,1259,1810
+"186","20001, Northwest Washington, Washington","255","4800 Del Ray Avenue, Woodmont Triangle, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",2051,1658,2535
+"186","20001, Northwest Washington, Washington","256","6900 Arlington Road, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",1804,1503,2164
+"186","20001, Northwest Washington, Washington","257","7700 Wisconsin Avenue, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",2021,1622,2517
+"186","20001, Northwest Washington, Washington","259","6600 Peaceful Street, Clinton","3/17/2018 - 3/17/2018, Every day, Daily Average",1650,1377,1975
+"186","20001, Northwest Washington, Washington","260","1900 Addison Road South, District Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1886,1585,2243
+"186","20001, Northwest Washington, Washington","261","8400 Temple Hill Road, Temple Hills","3/17/2018 - 3/17/2018, Every day, Daily Average",1718,1415,2084
+"186","20001, Northwest Washington, Washington","262","6900 Ames Street, Morningside","3/17/2018 - 3/17/2018, Every day, Daily Average",1283,1030,1598
+"186","20001, Northwest Washington, Washington","263","1600 Tucker Road, Fort Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1311,1042,1648
+"186","20001, Northwest Washington, Washington","264","4200 Wandering Court, Temple Hills","3/17/2018 - 3/17/2018, Every day, Daily Average",1249,952,1637
+"186","20001, Northwest Washington, Washington","265","1800 Metzerott Road, Adelphi","3/17/2018 - 3/17/2018, Every day, Daily Average",2071,1708,2510
+"186","20001, Northwest Washington, Washington","266","3300 Gumwood Drive, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1921,1598,2308
+"186","20001, Northwest Washington, Washington","267","3900 Old Silver Hill Road, Suitland, Suitland-Silver Hill","3/17/2018 - 3/17/2018, Every day, Daily Average",1190,900,1572
+"186","20001, Northwest Washington, Washington","268","6300 Rosecroft Drive, Fort Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1430,1104,1851
+"186","20001, Northwest Washington, Washington","269","8300 Greensboro Drive, McLean","3/17/2018 - 3/17/2018, Every day, Daily Average",1815,1375,2394
+"186","20001, Northwest Washington, Washington","270","5700 Mansfield Drive, Temple Hills","3/17/2018 - 3/17/2018, Every day, Daily Average",1509,1183,1923
+"186","20001, Northwest Washington, Washington","271","4900 Essex Avenue, Chevy Chase","3/17/2018 - 3/17/2018, Every day, Daily Average",1669,1422,1957
+"186","20001, Northwest Washington, Washington","273","6800 Asset Drive, Landover, 13, Kent, Prince George's County, Maryland, United States, 20785","3/17/2018 - 3/17/2018, Every day, Daily Average",1798,1379,2343
+"186","20001, Northwest Washington, Washington","274","2500 Campus Way North, Bowie","3/17/2018 - 3/17/2018, Every day, Daily Average",1787,1362,2344
+"186","20001, Northwest Washington, Washington","275","6200 Surrey Square Lane, District Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1488,1170,1891
+"186","20001, Northwest Washington, Washington","276","6000 Kirby Road, Clinton","3/17/2018 - 3/17/2018, Every day, Daily Average",1455,1218,1737
+"186","20001, Northwest Washington, Washington","278","4100 31st Street, Mount Rainier","3/17/2018 - 3/17/2018, Every day, Daily Average",1312,1030,1670
+"186","20001, Northwest Washington, Washington","279","8800 Colonel Seward Drive, Fort Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1293,1022,1634
+"186","20001, Northwest Washington, Washington","280","5100 Cranmer Way, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1403,1026,1917
+"186","20001, Northwest Washington, Washington","281","1600 Brightseat Road, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1640,1304,2061
+"186","20001, Northwest Washington, Washington","282","6200 Springhill Court, Greenbelt","3/17/2018 - 3/17/2018, Every day, Daily Average",1806,1505,2166
+"186","20001, Northwest Washington, Washington","283","5900 Cherrywood Lane, Greenbelt","3/17/2018 - 3/17/2018, Every day, Daily Average",1839,1528,2212
+"186","20001, Northwest Washington, Washington","284","4700 Annapolis Road, Bladensburg","3/17/2018 - 3/17/2018, Every day, Daily Average",1419,1098,1833
+"186","20001, Northwest Washington, Washington","285","8000 New Hampshire Avenue, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1873,1476,2375
+"186","20001, Northwest Washington, Washington","286","2400 University Boulevard East, Adelphi","3/17/2018 - 3/17/2018, Every day, Daily Average",1847,1450,2352
+"186","20001, Northwest Washington, Washington","288","4500 Harvest Road, Camp Springs","3/17/2018 - 3/17/2018, Every day, Daily Average",1436,1124,1833
+"186","20001, Northwest Washington, Washington","289","1400 Farmingdale Avenue, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1289,963,1724
+"186","20001, Northwest Washington, Washington","290","6000 Sargent Road, Chillum","3/17/2018 - 3/17/2018, Every day, Daily Average",1603,1268,2024
+"186","20001, Northwest Washington, Washington","291","5800 31st Place, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1689,1372,2077
+"186","20001, Northwest Washington, Washington","292","8400 Carrollton Parkway, New Carrollton","3/17/2018 - 3/17/2018, Every day, Daily Average",1300,1014,1665
+"186","20001, Northwest Washington, Washington","293","Baltimore-Washington Parkway, 2, Bladensburg, Prince George's County, Maryland, United States, 20781","3/17/2018 - 3/17/2018, Every day, Daily Average",1074,798,1443
+"186","20001, Northwest Washington, Washington","294","5600 64th Avenue, Riverdale, East Riverdale","3/17/2018 - 3/17/2018, Every day, Daily Average",1561,1183,2058
+"186","20001, Northwest Washington, Washington","295","4000 Carozza Court, Temple Hills","3/17/2018 - 3/17/2018, Every day, Daily Average",1058,780,1434
+"186","20001, Northwest Washington, Washington","296","1700 Ritchie Road, District Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1920,1526,2414
+"186","20001, Northwest Washington, Washington","297","8200 Waterside Court, Fort Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1071,860,1333
+"186","20001, Northwest Washington, Washington","298","6400 61st Place, Riverdale, East Riverdale","3/17/2018 - 3/17/2018, Every day, Daily Average",1584,1179,2128
+"186","20001, Northwest Washington, Washington","299","2400 Rosecroft Court, Oxon Hill","3/17/2018 - 3/17/2018, Every day, Daily Average",1409,1127,1760
+"186","20001, Northwest Washington, Washington","300","3800 Matthews Drive, Temple Hills","3/17/2018 - 3/17/2018, Every day, Daily Average",1550,1201,2000
+"186","20001, Northwest Washington, Washington","301","4900 40th Place, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1678,1336,2107
+"186","20001, Northwest Washington, Washington","302","Unnamed Road, College Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1801,1425,2275
+"186","20001, Northwest Washington, Washington","303","100 Onondaga Drive, Oxon Hill","3/17/2018 - 3/17/2018, Every day, Daily Average",965,766,1215
+"186","20001, Northwest Washington, Washington","304","1800 South Club Drive, Landover, Greater Landover","3/17/2018 - 3/17/2018, Every day, Daily Average",1569,1175,2093
+"186","20001, Northwest Washington, Washington","305","2800 Crest Avenue, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1113,842,1470
+"186","20001, Northwest Washington, Washington","306","3800 Kearney Road, Brentwood","3/17/2018 - 3/17/2018, Every day, Daily Average",1331,1030,1718
+"186","20001, Northwest Washington, Washington","307","4600 Greenline Court, Suitland, Camp Springs","3/17/2018 - 3/17/2018, Every day, Daily Average",1354,1050,1744
+"186","20001, Northwest Washington, Washington","308","3500 Riviera Street, Temple Hills","3/17/2018 - 3/17/2018, Every day, Daily Average",1586,1299,1935
+"186","20001, Northwest Washington, Washington","310","3800 Forestville Road, District Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1618,1270,2060
+"186","20001, Northwest Washington, Washington","311","1100 Valley Drive, College Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1955,1570,2432
+"186","20001, Northwest Washington, Washington","312","4200 Suitland Road, Suitland-Silver Hill","3/17/2018 - 3/17/2018, Every day, Daily Average",1199,875,1642
+"186","20001, Northwest Washington, Washington","313","3900 Livingston Street, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1562,1259,1937
+"186","20001, Northwest Washington, Washington","314","4900 Abbott Drive, Marlow Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1557,1368,1771
+"186","20001, Northwest Washington, Washington","315","2400 Brooks Drive, Suitland, Suitland-Silver Hill","3/17/2018 - 3/17/2018, Every day, Daily Average",1383,967,1976
+"186","20001, Northwest Washington, Washington","316","6200 20th Avenue, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1640,1287,2089
+"186","20001, Northwest Washington, Washington","317","700 Somerset Place, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1549,1197,2004
+"186","20001, Northwest Washington, Washington","318","6700 Red Top Road, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1639,1280,2098
+"186","20001, Northwest Washington, Washington","319","1900 Laguna Road, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1957,1599,2394
+"186","20001, Northwest Washington, Washington","320","2000 Amherst Road, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1744,1406,2162
+"186","20001, Northwest Washington, Washington","321","4200 Van Buren Street, University Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1752,1443,2125
+"186","20001, Northwest Washington, Washington","322","4900 Nicholson Street, Riverdale, Riverdale Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1611,1261,2057
+"186","20001, Northwest Washington, Washington","323","Cabiglas Street, Joint Base Andrews","3/17/2018 - 3/17/2018, Every day, Daily Average",1419,1171,1718
+"186","20001, Northwest Washington, Washington","324","3100 Bolivia Court, Fort Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1785,1477,2156
+"186","20001, Northwest Washington, Washington","325","8500 Pepco Place, Upper Marlboro","3/17/2018 - 3/17/2018, Every day, Daily Average",1471,1168,1852
+"186","20001, Northwest Washington, Washington","326","4900 46th Avenue, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1473,1177,1842
+"186","20001, Northwest Washington, Washington","327","1000 Stratwood Avenue, Oxon Hill","3/17/2018 - 3/17/2018, Every day, Daily Average",1214,946,1557
+"186","20001, Northwest Washington, Washington","328","1700 Tucker Road, Fort Washington","3/17/2018 - 3/17/2018, Every day, Daily Average",1384,1109,1726
+"186","20001, Northwest Washington, Washington","329","1300 Fenwood Avenue, Oxon Hill","3/17/2018 - 3/17/2018, Every day, Daily Average",1385,1077,1780
+"186","20001, Northwest Washington, Washington","330","8600 Lancaster Drive, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",2084,1722,2521
+"186","20001, Northwest Washington, Washington","331","2100 Jameson Street, Temple Hills","3/17/2018 - 3/17/2018, Every day, Daily Average",1407,1100,1798
+"186","20001, Northwest Washington, Washington","332","Perrie Lane, Camp Springs","3/17/2018 - 3/17/2018, Every day, Daily Average",1407,1128,1754
+"186","20001, Northwest Washington, Washington","333","2000 Hayden Road, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1439,1092,1894
+"186","20001, Northwest Washington, Washington","334","5900 Fisher Road, Temple Hills","3/17/2018 - 3/17/2018, Every day, Daily Average",1330,1024,1726
+"186","20001, Northwest Washington, Washington","335","1500 Southview Drive, Oxon Hill","3/17/2018 - 3/17/2018, Every day, Daily Average",1343,1016,1774
+"186","20001, Northwest Washington, Washington","336","2700 Keating Street, Hillcrest Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1263,958,1664
+"186","20001, Northwest Washington, Washington","337","2500 Eliot Place, Temple Hills","3/17/2018 - 3/17/2018, Every day, Daily Average",1279,944,1732
+"186","20001, Northwest Washington, Washington","338","3400 Randall Road, Suitland, Suitland-Silver Hill","3/17/2018 - 3/17/2018, Every day, Daily Average",1240,957,1605
+"186","20001, Northwest Washington, Washington","339","2700 Phelps Avenue, District Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1869,1458,2394
+"186","20001, Northwest Washington, Washington","340","5900 Beech Avenue, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",1725,1405,2116
+"186","20001, Northwest Washington, Washington","341","8600 Irvington Avenue, Bradmoor, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",2133,1848,2461
+"186","20001, Northwest Washington, Washington","342","6600 Halleck Street, District Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1773,1368,2296
+"186","20001, Northwest Washington, Washington","343","3900 Billings Place, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1255,908,1734
+"186","20001, Northwest Washington, Washington","344","5400 Moorland Lane, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",2270,1872,2752
+"186","20001, Northwest Washington, Washington","345","8800 Brierly Road, Chevy Chase","3/17/2018 - 3/17/2018, Every day, Daily Average",2039,1651,2518
+"186","20001, Northwest Washington, Washington","346","7200 Millwood Court, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",2083,1713,2532
+"186","20001, Northwest Washington, Washington","347","7300 Brennon Lane, Chevy Chase","3/17/2018 - 3/17/2018, Every day, Daily Average",2223,1734,2849
+"186","20001, Northwest Washington, Washington","348","6900 Ridgewood Avenue, Chevy Chase","3/17/2018 - 3/17/2018, Every day, Daily Average",1825,1471,2263
+"186","20001, Northwest Washington, Washington","349","1000 Glacier Avenue, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1545,1158,2061
+"186","20001, Northwest Washington, Washington","350","600 Larchmont Avenue, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1568,1287,1910
+"186","20001, Northwest Washington, Washington","351","7000 Crail Drive, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",1457,1204,1761
+"186","20001, Northwest Washington, Washington","352","5800 Folgate Court, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1727,1400,2129
+"186","20001, Northwest Washington, Washington","353","7500 Wildwood Drive, Takoma Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1722,1349,2197
+"186","20001, Northwest Washington, Washington","354","200 West Mill Avenue, Pepper Mill Village, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1609,1309,1977
+"186","20001, Northwest Washington, Washington","356","0 Montgomery Avenue, Takoma Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1688,1362,2090
+"186","20001, Northwest Washington, Washington","357","5900 J Street, Fairmount Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1537,1126,2096
+"186","20001, Northwest Washington, Washington","358","1000 Carrington Avenue, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1725,1297,2294
+"186","20001, Northwest Washington, Washington","359","2400 Pinebrook Avenue, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1505,1131,2001
+"186","20001, Northwest Washington, Washington","360","7700 Burnside Road, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1706,1337,2175
+"186","20001, Northwest Washington, Washington","361","Park Central Road, Riverdale, Greenbelt","3/17/2018 - 3/17/2018, Every day, Daily Average",1395,1100,1767
+"186","20001, Northwest Washington, Washington","362","800 Gregorio Drive, Montgomery Knolls, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",2412,1737,3347
+"186","20001, Northwest Washington, Washington","363","9600 Newbridge Drive, Potomac","3/17/2018 - 3/17/2018, Every day, Daily Average",1648,1422,1908
+"186","20001, Northwest Washington, Washington","364","8500 Glenville Road, Takoma Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1954,1436,2658
+"186","20001, Northwest Washington, Washington","365","9200 Whitney Street, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",2116,1602,2793
+"186","20001, Northwest Washington, Washington","366","600 Thayer Avenue, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",1663,1370,2018
+"186","20001, Northwest Washington, Washington","367","100 Melbourne Avenue, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",2240,1831,2739
+"186","20001, Northwest Washington, Washington","368","600 Ritchie Avenue, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",1681,1346,2098
+"186","20001, Northwest Washington, Washington","369","2400 Lyttonsville Place, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",2080,1685,2567
+"186","20001, Northwest Washington, Washington","370","2000 Linden Lane, Silver Spring","3/17/2018 - 3/17/2018, Every day, Daily Average",1909,1588,2293
+"186","20001, Northwest Washington, Washington","371","600 Cappy Avenue, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1852,1555,2204
+"186","20001, Northwest Washington, Washington","372","4200 73rd Avenue, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1243,971,1590
+"186","20001, Northwest Washington, Washington","374","Cobe Road, Goddard","3/17/2018 - 3/17/2018, Every day, Daily Average",1549,1238,1938
+"186","20001, Northwest Washington, Washington","376","8500 Burning Tree Road, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",1534,1249,1883
+"186","20001, Northwest Washington, Washington","377","4700 River Road, Riverdale, Riverdale Park","3/17/2018 - 3/17/2018, Every day, Daily Average",1658,1280,2146
+"186","20001, Northwest Washington, Washington","378","5600 Newington Road, Bethesda","3/17/2018 - 3/17/2018, Every day, Daily Average",1732,1394,2150
+"186","20001, Northwest Washington, Washington","379","4900 Americana Drive, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1249,1021,1527
+"186","20001, Northwest Washington, Washington","380","Glenarden Apartment, Glenarden","3/17/2018 - 3/17/2018, Every day, Daily Average",1526,1200,1940
+"186","20001, Northwest Washington, Washington","381","3100 Pennsy Drive, Landover, Greater Landover","3/17/2018 - 3/17/2018, Every day, Daily Average",1246,970,1599
+"186","20001, Northwest Washington, Washington","382","9500 Lottsford Road, Upper Marlboro","3/17/2018 - 3/17/2018, Every day, Daily Average",1729,1367,2186
+"186","20001, Northwest Washington, Washington","383","400 Warfield Drive, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1788,1390,2298
+"186","20001, Northwest Washington, Washington","384","9000 Byard Court, Springdale","3/17/2018 - 3/17/2018, Every day, Daily Average",1577,1195,2079
+"186","20001, Northwest Washington, Washington","385","Harrison Lane, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1426,1097,1852
+"186","20001, Northwest Washington, Washington","386","6300 Barrs Lane, Lanham-Seabrook, Lanham","3/17/2018 - 3/17/2018, Every day, Daily Average",1726,1320,2255
+"186","20001, Northwest Washington, Washington","387","9200 Crandall Road, Lanham-Seabrook, Lanham, Prince George's County, Maryland, United States, 20706, 1931","3/17/2018 - 3/17/2018, Every day, Daily Average",1669,1291,2156
+"186","20001, Northwest Washington, Washington","388","7600 Vicar Street, New Carrollton","3/17/2018 - 3/17/2018, Every day, Daily Average",1378,1158,1638
+"186","20001, Northwest Washington, Washington","389","7700 Emerson Road, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1342,1044,1724
+"186","20001, Northwest Washington, Washington","390","7500 Finns Lane, Lanham-Seabrook, 2, Bladensburg, Prince George's County, Maryland, United States, 20706, 1217","3/17/2018 - 3/17/2018, Every day, Daily Average",1460,1167,1826
+"186","20001, Northwest Washington, Washington","391","4800 Trenton Road, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1167,914,1488
+"186","20001, Northwest Washington, Washington","392","6800 Furman Parkway, Riverdale, Woodlawn","3/17/2018 - 3/17/2018, Every day, Daily Average",1229,966,1563
+"186","20001, Northwest Washington, Washington","393","6000 Addison Road, Capitol Heights","3/17/2018 - 3/17/2018, Every day, Daily Average",1705,1301,2234
+"186","20001, Northwest Washington, Washington","394","8600 22nd Avenue, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1995,1686,2359
+"186","20001, Northwest Washington, Washington","395","3800 10th Street North, Virginia Square, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1002,769,1305
+"186","20001, Northwest Washington, Washington","396","5000 55th Avenue, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1604,1187,2167
+"186","20001, Northwest Washington, Washington","397","4300 58th Avenue, Bladensburg","3/17/2018 - 3/17/2018, Every day, Daily Average",1203,895,1615
+"186","20001, Northwest Washington, Washington","398","1200 North Stuart Street, Virginia Square, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",988,731,1334
+"186","20001, Northwest Washington, Washington","399","3000 Hillside Avenue, Cheverly","3/17/2018 - 3/17/2018, Every day, Daily Average",1242,920,1675
+"186","20001, Northwest Washington, Washington","400","6700 Darby Road, Hyattsville","3/17/2018 - 3/17/2018, Every day, Daily Average",1168,902,1511
+"186","20001, Northwest Washington, Washington","401","1500 28th Street South, Long Branch Creek, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",772,553,1077
+"186","20001, Northwest Washington, Washington","402","2600 North Sycamore Street, Williamsburg, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1125,868,1457
+"186","20001, Northwest Washington, Washington","403","1800 North Randolph Street, Cherrydale, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",832,616,1121
+"186","20001, Northwest Washington, Washington","404","2100 North Edison Street, High View Park, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1150,927,1425
+"186","20001, Northwest Washington, Washington","405","2100 North Kentucky Street, Tara - Leeway Heights, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1006,769,1315
+"186","20001, Northwest Washington, Washington","406","6000 9th Street North, Dominion Hills, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1145,848,1544
+"186","20001, Northwest Washington, Washington","407","500 North Piedmont Street, Ashton Heights, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1046,823,1328
+"186","20001, Northwest Washington, Washington","408","1800 North Harvard Street, Lyon Village, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",946,712,1256
+"186","20001, Northwest Washington, Washington","409","300 Riley Street, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1366,1108,1683
+"186","20001, Northwest Washington, Washington","410","1800 North Quesada Street, East Falls Church, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1069,821,1390
+"186","20001, Northwest Washington, Washington","411","200 Midvale Street, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1321,1020,1709
+"186","20001, Northwest Washington, Washington","412","600 Jackson Street, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1436,1192,1729
+"186","20001, Northwest Washington, Washington","413","2300 2nd Street South, Penrose, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",673,495,914
+"186","20001, Northwest Washington, Washington","414","400 South Fairfax Street, Old Town, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1020,814,1276
+"186","20001, Northwest Washington, Washington","415","3700 Camelot Drive, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1450,1168,1799
+"186","20001, Northwest Washington, Washington","417","500 Princess Street, Old Town, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",962,762,1213
+"186","20001, Northwest Washington, Washington","418","2900 Landover Street, Potomac West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",983,797,1212
+"186","20001, Northwest Washington, Washington","419","3400 Lake Street, Bailey's Crossroads","3/17/2018 - 3/17/2018, Every day, Daily Average",1181,911,1530
+"186","20001, Northwest Washington, Washington","420","7300 Gordons Road, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1285,1013,1630
+"186","20001, Northwest Washington, Washington","422","Westbranch Drive, Tysons","3/17/2018 - 3/17/2018, Every day, Daily Average",1527,1188,1961
+"186","20001, Northwest Washington, Washington","423","500 Triadelphia Way, Alexandria West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",853,657,1106
+"186","20001, Northwest Washington, Washington","424","5900 Mount Eagle Drive, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1265,1002,1596
+"186","20001, Northwest Washington, Washington","425","2300 Senseney Lane, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1316,1048,1651
+"186","20001, Northwest Washington, Washington","426","Mohegan Drive, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1526,1195,1948
+"186","20001, Northwest Washington, Washington","428","5500 16th Street North, Tara - Leeway Heights, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",970,735,1278
+"186","20001, Northwest Washington, Washington","429","800 North Abingdon Street, Bluemont, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1073,790,1456
+"186","20001, Northwest Washington, Washington","430","600 North Harrison Street, Bluemont, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1054,801,1386
+"186","20001, Northwest Washington, Washington","431","1800 North Ode Street, North Rosslyn, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",832,620,1116
+"186","20001, Northwest Washington, Washington","432","4200 2nd Road North, Buckingham, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",938,704,1248
+"186","20001, Northwest Washington, Washington","433","4400 South Pershing Court, Barcroft, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1016,760,1357
+"186","20001, Northwest Washington, Washington","434","500 North Thomas Street, Buckingham, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1033,800,1332
+"186","20001, Northwest Washington, Washington","435","800 South Randolph Street, Alcova Heights, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1019,738,1406
+"186","20001, Northwest Washington, Washington","436","1300 North Oak Street, Radnor - Fort Myer Heights, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",804,582,1109
+"186","20001, Northwest Washington, Washington","437","1600 North Queen Street, Radnor - Fort Myer Heights, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",714,505,1008
+"186","20001, Northwest Washington, Washington","438","5000 12th Street South, Columbia Forest, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",978,721,1325
+"186","20001, Northwest Washington, Washington","439","4200 13th Street South, Douglas Park, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1095,793,1510
+"186","20001, Northwest Washington, Washington","440","700 22nd Street South, Aurora Highlands, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",759,546,1054
+"186","20001, Northwest Washington, Washington","441","2200 12th Court North, Court House, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",849,619,1163
+"186","20001, Northwest Washington, Washington","442","2000 Key Boulevard, Colonial Village, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",886,683,1148
+"186","20001, Northwest Washington, Washington","443","2800 11th Street North, Court House, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",870,653,1158
+"186","20001, Northwest Washington, Washington","444","1500 South Eads Street, Crystal City, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",522,363,748
+"186","20001, Northwest Washington, Washington","445","4300 29th Street South, Shirlington, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",670,498,900
+"186","20001, Northwest Washington, Washington","446","6600 Rock Island Road, Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1247,977,1591
+"186","20001, Northwest Washington, Washington","447","5400 Charlottesville Road, Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1000,791,1263
+"186","20001, Northwest Washington, Washington","448","4800 Dodson Drive, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1159,972,1381
+"186","20001, Northwest Washington, Washington","449","Wendell Howard Road, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1471,1197,1806
+"186","20001, Northwest Washington, Washington","450","7100 Oak Ridge Road, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1756,1417,2175
+"186","20001, Northwest Washington, Washington","451","3300 Fallowfield Drive, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1611,1299,1997
+"186","20001, Northwest Washington, Washington","452","3800 Dade Drive, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1434,1236,1662
+"186","20001, Northwest Washington, Washington","453","3700 MacGregor Court, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1299,1091,1546
+"186","20001, Northwest Washington, Washington","454","3400 Monarch Lane, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1487,1259,1754
+"186","20001, Northwest Washington, Washington","455","6000 Brook Drive, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1246,939,1652
+"186","20001, Northwest Washington, Washington","456","3300 Garland Drive, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1090,784,1514
+"186","20001, Northwest Washington, Washington","457","8100 Heatherton Lane, Vienna","3/17/2018 - 3/17/2018, Every day, Daily Average",1422,1148,1760
+"186","20001, Northwest Washington, Washington","458","4800 Eisenhower Avenue, Landmark, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1277,956,1704
+"186","20001, Northwest Washington, Washington","459","2300 Fairview Terrace, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1224,974,1536
+"186","20001, Northwest Washington, Washington","460","3400 South Utah Street, Shirlington, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",799,580,1099
+"186","20001, Northwest Washington, Washington","461","Archstone Way, Franconia","3/17/2018 - 3/17/2018, Every day, Daily Average",1327,1040,1692
+"186","20001, Northwest Washington, Washington","462","Dolley Madison Boulevard, Tysons","3/17/2018 - 3/17/2018, Every day, Daily Average",1364,1078,1724
+"186","20001, Northwest Washington, Washington","463","1900 Kennedy Drive, Tysons","3/17/2018 - 3/17/2018, Every day, Daily Average",1515,1166,1967
+"186","20001, Northwest Washington, Washington","465","6100 Mc Lendon Court, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1337,1083,1649
+"186","20001, Northwest Washington, Washington","466","5500 Brookland Road, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1581,1235,2023
+"186","20001, Northwest Washington, Washington","467","Franconia-Springfield Parkway, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1436,1177,1751
+"186","20001, Northwest Washington, Washington","468","6000 Woodlake Lane, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1502,1219,1849
+"186","20001, Northwest Washington, Washington","469","3400 Austin Court, Groveton, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1497,1260,1778
+"186","20001, Northwest Washington, Washington","470","300 North Kenmore Street, Ashton Heights, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",882,666,1167
+"186","20001, Northwest Washington, Washington","471","5700 4th Street South, Glencarlyn, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1122,818,1537
+"186","20001, Northwest Washington, Washington","472","0 8th Street South, Arlington Heights, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",540,380,767
+"186","20001, Northwest Washington, Washington","473","3700 16th Street South, Douglas Park, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",849,623,1155
+"186","20001, Northwest Washington, Washington","474","3300 Groveton Street, Groveton, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1477,1190,1832
+"186","20001, Northwest Washington, Washington","475","5000 8th Road South, Arlington Mill, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1254,897,1751
+"186","20001, Northwest Washington, Washington","476","Four Mile Run Trail, Claremont, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",919,693,1217
+"186","20001, Northwest Washington, Washington","477","6800 Churchill Road, McLean","3/17/2018 - 3/17/2018, Every day, Daily Average",1410,1162,1710
+"186","20001, Northwest Washington, Washington","478","6800 Custis Parkway, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1400,1104,1774
+"186","20001, Northwest Washington, Washington","479","2200 Shirlington Road, Nauck, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",599,432,829
+"186","20001, Northwest Washington, Washington","480","1400 South Barton Street, Columbia Heights, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",763,549,1059
+"186","20001, Northwest Washington, Washington","481","2800 South Buchanan Street, Shirlington, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",700,521,939
+"186","20001, Northwest Washington, Washington","482","1000 Hardee Place, Seminary Hill, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1052,800,1382
+"186","20001, Northwest Washington, Washington","483","2100 Haycock Road, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1162,896,1506
+"186","20001, Northwest Washington, Washington","484","3900 Mount Vernon Avenue, Potomac West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",871,643,1179
+"186","20001, Northwest Washington, Washington","485","5500 Seminary Road, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1147,808,1627
+"186","20001, Northwest Washington, Washington","486","7600 Wood Mist Lane, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1518,1290,1786
+"186","20001, Northwest Washington, Washington","487","300 East Mount Ida Avenue, Potomac West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1009,784,1298
+"186","20001, Northwest Washington, Washington","488","1200 Key Drive, Taylor Run, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1043,823,1321
+"186","20001, Northwest Washington, Washington","489","1200 Quaker Hill Drive, Taylor Run, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1241,1004,1532
+"186","20001, Northwest Washington, Washington","490","3100 Holmes Run Road, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1469,1132,1905
+"186","20001, Northwest Washington, Washington","491","6800 Donahue Court, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1573,1214,2036
+"186","20001, Northwest Washington, Washington","492","0 East Mason Avenue, Potomac West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1002,855,1173
+"186","20001, Northwest Washington, Washington","494","5800 Aspen Wood Court, McLean","3/17/2018 - 3/17/2018, Every day, Daily Average",985,802,1208
+"186","20001, Northwest Washington, Washington","495","2200 Emmett Drive, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1387,1109,1734
+"186","20001, Northwest Washington, Washington","496","4000 Thornton Street, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1394,1125,1725
+"186","20001, Northwest Washington, Washington","497","400 Commonwealth Avenue, Potomac West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1009,854,1191
+"186","20001, Northwest Washington, Washington","498","200 South Reynolds Street, Landmark, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1167,889,1530
+"186","20001, Northwest Washington, Washington","499","200 Yoakum Parkway, Landmark, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1178,868,1597
+"186","20001, Northwest Washington, Washington","500","2000 Eisenhower Avenue, Eisenhower East, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1189,970,1456
+"186","20001, Northwest Washington, Washington","501","4900 Brenman Park Drive, Landmark, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1223,986,1515
+"186","20001, Northwest Washington, Washington","502","800 South Payne Street, Southwest Quadrant, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1086,866,1360
+"186","20001, Northwest Washington, Washington","503","3300 Old Dominion Boulevard, North Ridge, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",933,728,1194
+"186","20001, Northwest Washington, Washington","504","1200 Mount Vernon Trail, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1225,995,1507
+"186","20001, Northwest Washington, Washington","505","6500 Ashlawn Court, Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1124,875,1443
+"186","20001, Northwest Washington, Washington","506","4600 Upland Drive, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1434,1147,1792
+"186","20001, Northwest Washington, Washington","507","6100 Bayliss Place, Groveton, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1397,1160,1682
+"186","20001, Northwest Washington, Washington","508","2200 Journet Drive, Dunn Loring","3/17/2018 - 3/17/2018, Every day, Daily Average",1665,1322,2096
+"186","20001, Northwest Washington, Washington","509","2900 Bridgehampton Court, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1576,1291,1922
+"186","20001, Northwest Washington, Washington","510","1900 Byrd Road, Vienna","3/17/2018 - 3/17/2018, Every day, Daily Average",1715,1386,2121
+"186","20001, Northwest Washington, Washington","511","6100 Willston Drive, Seven Corners","3/17/2018 - 3/17/2018, Every day, Daily Average",1258,972,1626
+"186","20001, Northwest Washington, Washington","512","4600 19th Road North, Waverly Hills, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",912,682,1218
+"186","20001, Northwest Washington, Washington","513","1100 South Arlington Ridge Road, Arlington Ridge, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",731,506,1055
+"186","20001, Northwest Washington, Washington","514","5200 Yorktown Boulevard, Yorktown, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1260,1008,1574
+"186","20001, Northwest Washington, Washington","515","1400 North Taft Street, Radnor - Fort Myer Heights, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",776,558,1077
+"186","20001, Northwest Washington, Washington","516","2700 South Ives Street, Arlington Ridge, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",733,498,1077
+"186","20001, Northwest Washington, Washington","517","5000 Domain Place, Alexandria West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",772,571,1042
+"186","20001, Northwest Washington, Washington","518","4200 Vacation Lane, Donaldson Run, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",799,584,1091
+"186","20001, Northwest Washington, Washington","520","6400 Lily Dhu Lane, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1638,1350,1987
+"186","20001, Northwest Washington, Washington","521","7300 Hooking Road, McLean","3/17/2018 - 3/17/2018, Every day, Daily Average",1499,1213,1851
+"186","20001, Northwest Washington, Washington","522","3100 Juniper Lane, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1485,1220,1807
+"186","20001, Northwest Washington, Washington","523","4300 Roberts Avenue, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1209,981,1489
+"186","20001, Northwest Washington, Washington","524","4500 Weyburn Drive, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1278,988,1651
+"186","20001, Northwest Washington, Washington","525","5400 Backlick Woods Court, Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1147,911,1443
+"186","20001, Northwest Washington, Washington","526","4100 Wilson Boulevard, Virginia Square, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",1105,835,1461
+"186","20001, Northwest Washington, Washington","527","6200 Blossom Lane, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1626,1353,1952
+"186","20001, Northwest Washington, Washington","528","5400 Summer Leaf Lane, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",964,741,1253
+"186","20001, Northwest Washington, Washington","529","5800 Oakview Gardens Drive, Bailey's Crossroads","3/17/2018 - 3/17/2018, Every day, Daily Average",1213,923,1593
+"186","20001, Northwest Washington, Washington","530","6900 Trillium Lane, West Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1463,1207,1772
+"186","20001, Northwest Washington, Washington","531","Morven Lane, Alexandria West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",733,549,977
+"186","20001, Northwest Washington, Washington","532","6700 Rosewood Street, Annandale","3/17/2018 - 3/17/2018, Every day, Daily Average",1476,1156,1883
+"186","20001, Northwest Washington, Washington","533","1600 Davidson Road, McLean","3/17/2018 - 3/17/2018, Every day, Daily Average",1667,1287,2159
+"186","20001, Northwest Washington, Washington","534","2100 Greenwich Street, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1208,944,1544
+"186","20001, Northwest Washington, Washington","536","6000 Backlick Road, Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1109,863,1423
+"186","20001, Northwest Washington, Washington","537","1000 Colonial Farm Road, McLean","3/17/2018 - 3/17/2018, Every day, Daily Average",1114,929,1334
+"186","20001, Northwest Washington, Washington","538","300 South Whiting Street, Landmark, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1022,767,1360
+"186","20001, Northwest Washington, Washington","539","8600 Westwood Center Drive, Vienna","3/17/2018 - 3/17/2018, Every day, Daily Average",1566,1271,1928
+"186","20001, Northwest Washington, Washington","541","2500 Washington Boulevard, Lyon Park, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",764,567,1028
+"186","20001, Northwest Washington, Washington","542","1300 Potomac School Road, McLean","3/17/2018 - 3/17/2018, Every day, Daily Average",1230,985,1534
+"186","20001, Northwest Washington, Washington","543","3000 Eisenhower Avenue, Eisenhower West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1332,1087,1632
+"186","20001, Northwest Washington, Washington","544","5400 Inverchapel Road, Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1235,981,1553
+"186","20001, Northwest Washington, Washington","545","1900 Storm Drive, Falls Church","3/17/2018 - 3/17/2018, Every day, Daily Average",1283,1007,1633
+"186","20001, Northwest Washington, Washington","546","Moore Lane, Fort Myer, Arlington","3/17/2018 - 3/17/2018, Every day, Daily Average",627,465,845
+"186","20001, Northwest Washington, Washington","547","600 North Owen Street, Seminary Hill, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",803,619,1040
+"186","20001, Northwest Washington, Washington","548","1600 Preston Road, North Ridge, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",646,474,878
+"186","20001, Northwest Washington, Washington","549","300 North Van Dorn Street, Landmark, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",990,744,1317
+"186","20001, Northwest Washington, Washington","550","4300 Raleigh Avenue, Seminary Hill, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1040,817,1322
+"186","20001, Northwest Washington, Washington","551","4700 Kenmore Avenue, Seminary Hill, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",775,595,1008
+"186","20001, Northwest Washington, Washington","552","5700 Reading Avenue, Alexandria West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1013,748,1370
+"186","20001, Northwest Washington, Washington","553","4900 Seminary Road, Alexandria West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",767,565,1039
+"186","20001, Northwest Washington, Washington","554","1300 North Beauregard Street, Alexandria West, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",794,597,1055
+"186","20001, Northwest Washington, Washington","555","5900 Atteentee Road, Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1255,1009,1559
+"186","20001, Northwest Washington, Washington","556","7800 Montvale Way, McLean","3/17/2018 - 3/17/2018, Every day, Daily Average",1410,1161,1712
+"186","20001, Northwest Washington, Washington","557","8400 Fenwood Drive, West Springfield","3/17/2018 - 3/17/2018, Every day, Daily Average",1356,1094,1679
+"186","20001, Northwest Washington, Washington","558","4000 Wheeler Avenue, Seminary Hill, Alexandria","3/17/2018 - 3/17/2018, Every day, Daily Average",1344,1070,1687
